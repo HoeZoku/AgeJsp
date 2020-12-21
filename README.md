@@ -1,4 +1,4 @@
-# AgeJsp
+# http://hoezoku.com/AgeJsp
 
 # JSPを用いた年齢判定ツール
 
